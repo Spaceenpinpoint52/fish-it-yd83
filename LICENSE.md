@@ -1,4 +1,4 @@
-#  
+#  fish it Scripts secure is the best fish it Script, featuring auto-upgrade and custom skins. Safe and powerful for all your needs.
 
 
 
